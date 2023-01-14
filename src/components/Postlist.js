@@ -25,4 +25,4 @@ function Postlist() {
     )
 }
 
-export default Postlist``
+export default Postlist
